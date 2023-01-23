@@ -1,4 +1,4 @@
-# mini_app
+# random.app
 
 A new Flutter project.
 
